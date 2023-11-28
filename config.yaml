@@ -6,7 +6,7 @@ title: Soli's Site
 copyright: Soli
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: solis-site
 
 # GA Tracking ID
 googleAnalytics:
@@ -59,7 +59,7 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname: solis-site
+            shortname: 
             apiUrl:
             apiKey:
             admin:

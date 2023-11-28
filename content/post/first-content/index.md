@@ -1,7 +1,7 @@
 +++
 title = 'First Content'
 date = 2023-11-28T20:11:56+09:00
-draft = true
+draft = false
 categories = ["Blog"]
 tags = ["note"]
 +++

@@ -1,7 +1,7 @@
 +++
 title = '自鯖向けMisskey独自実装2023'
 date = 2023-12-20T00:00:00+09:00
-draft = true
+draft = false
 categories = ["AdventCalendar", "Fediverse", "Misskey"]
 +++
 

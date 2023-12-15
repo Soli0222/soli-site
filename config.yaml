@@ -6,7 +6,7 @@ title: Soli's Site
 copyright: Soli
 
 # Change it to your Disqus shortname before using
-disqusShortname: solis-site
+# disqusShortname: solis-site
 
 # GA Tracking ID
 googleAnalytics:
@@ -111,11 +111,11 @@ params:
             siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
 
         giscus:
-            repo:
-            repoID:
-            category:
-            categoryID:
-            mapping:
+            repo: "Soli0222/soli-site"
+            repoID: "R_kgDOKzBZlQ"
+            category: "Announcements"
+            categoryID: "DIC_kwDOKzBZlc4Cbw_I"
+            mapping: "pathname"
             lightTheme:
             darkTheme:
             reactionsEnabled: 1

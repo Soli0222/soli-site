@@ -1,7 +1,7 @@
 +++
 title = 'デスク周りの設備を良い感じにした'
 date = 2024-08-12T01:26:00+09:00
-draft = true
+draft = false
 categories = ["Blog"]
 +++
 

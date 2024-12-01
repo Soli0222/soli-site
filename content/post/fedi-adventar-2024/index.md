@@ -1,7 +1,7 @@
 +++
 title = 'Fediverse2年目を振り返る'
 date = 2024-12-19T00:00:00+09:00
-draft = true
+draft = false
 categories = ["AdventCalendar", "Fediverse", "Misskey"]
 +++
 
